@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""A Module Presenting a Function that measures
+execution time of an async function"""
 
 
 from typing import List

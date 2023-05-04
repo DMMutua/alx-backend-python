@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+"""A module further demonstrating asyncio Tasks"""
 
 import asyncio
 task_wait_random = __import__("3-tasks").task_wait_random
