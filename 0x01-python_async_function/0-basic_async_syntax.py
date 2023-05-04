@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+"""Module Containing a """
 
 import asyncio
 import random
@@ -13,3 +13,4 @@ async def wait_random(max_delay=10):
     await asyncio.sleep(num)
 
     return num
+
